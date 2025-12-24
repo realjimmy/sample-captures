@@ -6,3 +6,6 @@
 
 - self-captures
   自己开发调试时抓取的包
+
+- zeek-samples
+  zeek开源软件里的测试包: https://github.com/zeek/zeek/tree/master/testing/btest/Traces
