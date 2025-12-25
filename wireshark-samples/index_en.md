@@ -1,4 +1,7 @@
 # Wireshark samples
+
+[中文版 (Chinese)](index_cn.md) | [English](index_en.md)
+
 - [Wireshark samples](#wireshark-samples)
   - [General / Unsorted](#general--unsorted)
   - [ADSL CPE](#adsl-cpe)
